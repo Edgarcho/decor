@@ -1,7 +1,21 @@
 body{
   background-color:#919182;
 }
-.collumn{
+.c1{
   width:300px;
-  float:right;  
+  float:right;
+  border:2px solid green;
+  background-color:red;
+}
+.c2{
+  width:300px;
+  float:right;
+  border:2px solid green;
+  background-color:yellow;
+}
+.c3{
+  width:300px;
+  float:right;
+  border:2px solid green;
+  background-color:orange;
 }
